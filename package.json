@@ -34,7 +34,7 @@
 		"cheerio": "^1.0.0-rc.10",
 		"content-type": "^1.0.4",
 		"iconv-lite": "^0.6.3",
-		"type-fest": "^2.0.0"
+		"type-fest": "^3.6.1"
 	},
 	"devDependencies": {
 		"@richienb/tsconfig": "^0.3.0",
