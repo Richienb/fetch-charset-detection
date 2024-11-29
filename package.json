@@ -40,7 +40,7 @@
 		"@richienb/tsconfig": "^0.3.0",
 		"@types/cheerio": "^0.22.30",
 		"@types/content-type": "^1.1.5",
-		"@types/node": "^16.4.13",
+		"@types/node": "^18.14.6",
 		"ava": "^3.15.0",
 		"node-fetch": "3.0.0-beta.10",
 		"ts-node": "^10.1.0",
